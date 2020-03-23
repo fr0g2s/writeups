@@ -8,7 +8,7 @@ fibo = [int(0) for _ in range(0, 51, 1)]
 fibo[0] = 0
 fibo[1] = 1
 fibo[2] = 1
-for i in range(3, 51, 1):
+for i in range(3, 50, 1):
 	fibo[i] = fibo[i-1] + fibo[i-2]
 
 print p.recvuntil('--------------------\n')
@@ -34,4 +34,4 @@ for _ in range(0,51,1):
 	log.info('result = %s' % result)
 	p.sendline(result)
 
-print p.recv()
+print p.recvline()
