@@ -13,7 +13,7 @@ for i in range(3, 50, 1):
 
 print p.recvuntil('--------------------\n')
 state = 3
-for _ in range(0,51,1):
+for _ in range(0,50,1):
 	buff = p.recvline().replace('\n','')
 	print 'recv = ', buff
 	buff = buff.split(' ')
