@@ -1,7 +1,6 @@
 핸드레이 메모<br>
 <br>
-<h3>function call tree</h3><br>
-<br>
+<h3>function call tree</h3>
 <pre>
 main
 |
