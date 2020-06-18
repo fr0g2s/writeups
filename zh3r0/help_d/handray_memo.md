@@ -24,6 +24,7 @@ if(g == (idontknow=5)){
 
 
 
+
 finallyyouhelpedme
 |
 read(0, helpishere, 0x64)
