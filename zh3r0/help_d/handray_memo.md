@@ -1,6 +1,7 @@
 핸드레이 메모<br>
 <br>
-<h3>function call tree</h3>
+<h3>function call tree</h3><br>
+<br>
 <pre>
 main
 |
@@ -21,8 +22,7 @@ if(g == (idontknow=5)){
 	read(0, rbp-0x20, 0x29);
 	puts("Why couldn't you help me?");
 }
-<br>
-<br>
+
 finallyyouhelpedme
 |
 read(0, helpishere, 0x64)
