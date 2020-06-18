@@ -1,6 +1,7 @@
 핸드레이 메모<br>
-
+<br>
 <h3>function call tree</h3>
+<pre>
 <div style="text-align:center">
 main
 |
@@ -29,4 +30,4 @@ finallyyouhelpedme
 read(0, helpishere, 0x64)
 read(0, rbp-0x20, 0x40)
 </div>
-
+</pre>
