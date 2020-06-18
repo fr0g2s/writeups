@@ -23,7 +23,7 @@ init 0<br>
 명령어 없 run 안됨.<br>
 <br>
   <li>editcommand</li>
-추가했던 명령어를 "/bin/sh"로 바꾸는데 여기선 필터링을 안함.
+추가했던 명령어를 "/bin/sh"로 바꾸는데 여기선 필터링을 안함.<br>
 <br>
   <li>exit</li><br>
 
