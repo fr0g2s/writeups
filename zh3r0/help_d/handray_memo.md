@@ -23,7 +23,6 @@ if(g == (idontknow=5)){
 }
 <br>
 <br>
-<br>
 finallyyouhelpedme
 |
 read(0, helpishere, 0x64)
