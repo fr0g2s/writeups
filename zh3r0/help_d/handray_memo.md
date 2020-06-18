@@ -1,18 +1,19 @@
 핸드레이 메모<br>
 <pre>
+<h3>function call tree</h3>
 main
 |
-helpme
+helpme(8)
 |
-donthelphim
+donthelphim(8)
 |
-butineedhelp(3), whatthefuckiswrong(2), butineedhelp
+butineedhelp(3), whatthefuckiswrong(2), butineedhelp(3)
 |
 whatthefuckiswrong(2), helphelp(1)
 |
 helphelp(1), helphelp(1)
 |
-ok
+ok(1)
 |
 g++
 if(g == (idontknow=5)){
