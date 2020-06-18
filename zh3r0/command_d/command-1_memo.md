@@ -25,6 +25,6 @@ init 0<br>
   <li>editcommand</li>
 추가했던 명령어를 "/bin/sh"로 바꾸는데 여기선 필터링을 안함.
 <br>
-  <li>exit</li>
-<br>
-  </ol>
+  <li>exit</li><br>
+
+</ol>
