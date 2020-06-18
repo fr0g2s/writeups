@@ -1,7 +1,7 @@
 분석 메모<br>
 <br>
 <ol>
-  <li>1. addcommand</li>
+  <li>addcommand</li>
   명령어를 필터링함.
   <br>
 == filtering list ==<br>
