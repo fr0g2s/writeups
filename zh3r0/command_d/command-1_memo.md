@@ -12,7 +12,7 @@ echo<br>
 cat<br>
 shutdown<br>
 init 0<br>
-==============<br>
+============<br>
 추가된 명령어 문자열들은 힙 영역에 있음.<br>
 명령어들의 주소는 <magic>이 가지고 있음.<br>
 <head>는 <magic>의 주소를 알려줌.<br>
