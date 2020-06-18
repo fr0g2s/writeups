@@ -2,7 +2,7 @@
 <br>
 <ol>
   <li>1. addcommand</li>
-  <li>명령어를 필터링함.</li>
+  명령어를 필터링함.
   <br>
 == filtering list ==<br>
 flag<br>
@@ -27,3 +27,4 @@ init 0<br>
 <br>
 4. exit<br>
 <br>
+  </ol>
