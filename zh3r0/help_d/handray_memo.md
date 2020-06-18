@@ -2,9 +2,8 @@
 <br>
 <h3>function call tree</h3>
 <pre>
-<div style="text-align:center">
-main
-|
+<center>main</center>
+<center>|</center>
 helpme(8)
 |
 donthelphim(8)
