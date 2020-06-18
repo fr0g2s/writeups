@@ -1,8 +1,9 @@
 분석 메모<br>
 <br>
-1. addcommand<br>
-입력한 명령어를 필터링함.<br>
-<br>
+<ol>
+  <li>1. addcommand</li>
+  <li>명령어를 필터링함.</li>
+  <br>
 == filtering list ==<br>
 flag<br>
 /bin<br>
