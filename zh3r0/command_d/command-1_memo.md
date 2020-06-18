@@ -18,13 +18,13 @@ init 0<br>
 <head>는 <magic>의 주소를 알려줌.<br>
 <ind>는 현재 명령어 갯수<br>
 <br>
-  <li>2. runcommand</li>
+  <li>runcommand</li>
 1을 통해 입력한 명령어의 번호를 입력받고 수행.<br>
 명령어 없 run 안됨.<br>
 <br>
-  <li>3. editcommand</li>
+  <li>editcommand</li>
 추가했던 명령어를 "/bin/sh"로 바꾸는데 여기선 필터링을 안함.
 <br>
-  <li>4. exit</li>
+  <li>exit</li>
 <br>
   </ol>
