@@ -1,5 +1,5 @@
 <pre>
-```avrasm
+```
 start
    0x1000:      lea    rsi,[rip+0x1ffa]        # 0x3001
    0x1007:      call   write			# puts("Enter access code:")
@@ -60,7 +60,7 @@ isCorrect(rbp=0x3038(9),rsi=0)
    0x10b7:      jmp    0x107e
 ```
    
-```c   
+```
    while(rsi!=1){
 		idx = rsi*8;
 		if(_0x3038[_0x3038[idx+1]] - _0x3038[_0x3038[idx]]){
