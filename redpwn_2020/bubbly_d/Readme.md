@@ -1,9 +1,9 @@
 어셈코드가 심각하게 길었는데, 멀리서 보니 비슷한 패턴이 보였다.<br>
 대충 코드로 바꿔보면,<br>
 ```
-nums[i] xor nums[i+1]<br>
-nums[i+1] xor nums[i]<br>
-nums[i] xor nums[i+1]<br>
+nums[i] xor nums[i+1]
+nums[i+1] xor nums[i]
+nums[i] xor nums[i+1]
 ```
 xor trick이다! 반갑다.<br>
 <br>
