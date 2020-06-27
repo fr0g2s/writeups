@@ -1,4 +1,4 @@
-```avrasm
+```assembly
 start
    0x1000:      lea    rsi,[rip+0x1ffa]        # 0x3001
    0x1007:      call   write			# puts("Enter access code:")
