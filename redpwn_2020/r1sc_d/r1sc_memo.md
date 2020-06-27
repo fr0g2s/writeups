@@ -1,4 +1,3 @@
-<pre>
 ```
 start
    0x1000:      lea    rsi,[rip+0x1ffa]        # 0x3001
@@ -76,4 +75,3 @@ isCorrect(rbp=0x3038(9),rsi=0)
 		}
    }
 ```
-</pre>
