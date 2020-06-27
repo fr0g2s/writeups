@@ -1,4 +1,4 @@
-```assebmly
+```assembly
    0x0000000000001259 <+128>:   lea    rdx,[rax*4+0x0]
    0x0000555555555261 <+136>:   lea    rax,[rip+0x2df8]        # nums
    0x0000555555555268 <+143>:   mov    edx,DWORD PTR [rdx+rax*1] # nums[input*4]
